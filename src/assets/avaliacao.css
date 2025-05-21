@@ -1,0 +1,68 @@
+.bg-livro {
+    background-color: #e0d0c1;
+    min-height: 100vh;
+  }
+  
+  .barra-pesquisa {
+    background-color: #8d7b6c;
+    padding: 10px;
+  }
+  
+  .filtros-genero {
+    background-color: #8d7b6c;
+  }
+  
+  .genero-badge {
+    background-color: #6c5b4c !important;
+    color: white;
+    font-size: 0.8rem;
+    cursor: pointer;
+  }
+  
+  .botao-leitura {
+    background-color: #8d7b6c !important;
+    border: none;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 5px;
+  }
+  
+  .estrela {
+    font-size: 1.5rem;
+    margin: 0 2px;
+  }
+  
+  .estrela-preenchida {
+    color: #ffd700;
+  }
+  
+  .estrela-vazia {
+    color: #d3d3d3;
+  }
+  
+  .total-avaliacoes {
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
+  .avaliacao-item {
+    text-align: left;
+    border-bottom: 1px solid #d3c3b3;
+    padding-bottom: 15px;
+  }
+  
+  .avatar-usuario {
+    font-size: 1.5rem;
+  }
+  
+  .nome-usuario {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .comentario-texto {
+    font-size: 0.9rem;
+    color: #333;
+    margin-top: 5px;
+  }
+  
